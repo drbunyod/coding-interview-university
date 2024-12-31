@@ -2,26 +2,6 @@
 
 Hey there. I use this repo as a study plan for tech interview preparation. The readme and contents of this fork may differ from the original repo. Please refer to the [original repo](https://github.com/jwasham/coding-interview-university) for up-to-date information.
 
-## Don't feel you aren't smart enough
-
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- The following videos may help you overcome this insecurity:
-    - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-    - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-**[⬆ back to top](#table-of-contents)**
-
-## A Note About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
-It would be great to replace the online course resources with free and always-available public sources,
-such as YouTube videos (preferably university lectures), so that you people can study these anytime,
-not just when a specific online course is in session.
-
-**[⬆ back to top](#table-of-contents)**
-
 ## Choose a Programming Language
 
 You'll need to choose a programming language for the coding interviews you do,
