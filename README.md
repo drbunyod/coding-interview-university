@@ -2,6 +2,8 @@
 
 Hey there. I use this repo as a study plan for tech interview preparation. The readme and contents of this fork may differ from the original repo. Please refer to the [original repo](https://github.com/jwasham/coding-interview-university) for up-to-date information.
 
+I use C / C++ for studying Computer Science topics and C++ / Python for coding interviews.
+
 ## Books for Data Structures and Algorithms
 
 This book will form your foundation for computer science.
