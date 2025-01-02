@@ -4,6 +4,8 @@ Hey there. I use this repo as a study plan for tech interview preparation. The r
 
 I use C / C++ for studying Computer Science topics and C++ / Python for coding interviews.
 
+![Legendary scene](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+
 ## Books for Data Structures and Algorithms
 
 This book will form your foundation for computer science.
